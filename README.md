@@ -4,6 +4,12 @@ A case designed for [Crosses](https://github.com/Good-Great-Grand-Wonderful/cros
 
 - Only supports a **3x5 key matrix**.
 
+## Video
+
+[![Watch](https://img.youtube.com/vi/efjrwxRl2_M/0.jpg)](https://www.youtube.com/watch?v=efjrwxRl2_M)
+
+[Youtube](https://www.youtube.com/watch?v=efjrwxRl2_M)
+
 ## Parts
 * 3x5 Matrix Case
 * Thumb Cluster Case
