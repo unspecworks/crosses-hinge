@@ -20,8 +20,9 @@ Only lists **additional** components required (A SIDE)
 
 * M3x5mm screws × 4
 * M3x3mm threaded insert × 1
+* M3 Hex Nut x 4 (Best: Width 5.5mm, Height 2.5mm) 
 * 140mm FFC cable
-* Lockable hinge
+* Hinge (Lockable recommended)
 
   * Finding the exact part may be difficult. Please compare the dimensions provided and choose accordingly.
   * Source: [Taobao](https://detail.tmall.com/item.htm?id=735513025680)
