@@ -6,10 +6,13 @@ A case designed for [Crosses](https://github.com/Good-Great-Grand-Wonderful/cros
 
 ## Parts
 * 3x5 Matrix Case
-* Thumbcluster Case
-* Top parts for Trackball Stand
+* Thumb Cluster Case
+* Top Part of the Trackball Stand
 
-All Parts are based on **RIGHT PART**. Flip horizontally it if you need.
+All parts are designed based on *the right-hand side.*
+If needed, mirror them for the left side.
+
+Fillets have been optimized for FDM 3D printing.
 
 ## BOM
 
