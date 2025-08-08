@@ -22,7 +22,7 @@ Only lists **additional** components required:
 
   * Finding the exact part may be difficult. Please compare the dimensions provided and choose accordingly.
   * Source: [Taobao](https://detail.tmall.com/item.htm?id=735513025680)
-  * ![Image](./images/hinge.png)
+  * ![Image](./images/hinge.jpg)
 
 ## License
 
