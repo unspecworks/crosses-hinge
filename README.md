@@ -16,7 +16,7 @@ Fillets have been optimized for FDM 3D printing.
 
 ## BOM
 
-Only lists **additional** components required:
+Only lists **additional** components required (A SIDE)
 
 * M3x5mm screws × 4
 * M3x3mm threaded insert × 1
